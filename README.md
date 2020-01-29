@@ -1,4 +1,4 @@
-# windefenderremoval
+# Windows Defender Removal
 Berguna untuk meremove windows defender
 ## Usage
 1. Klik kanan Uninstall.cmd, lalu run as administrator
